@@ -1,2 +1,2 @@
 # webscrapping
-Scrapping of the cars data available on cars45 website into a CSV file.
+This repository contains codes of web scraping of data from different websites into a CSV file.
